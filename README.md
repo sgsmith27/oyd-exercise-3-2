@@ -143,9 +143,9 @@ aws_lambda_permission
 
 # Evidencia
 Contenido de:
-```bash
-infra/evidence/function.txt
-```
+
+[infra/evidence/function.txt](infra/evidence/function.txt)
+
 ```text
 ----------------------------------------------------------------------------------------
 |                                      GetFunction                                     |
